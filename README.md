@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SpreadSheets650
 - 👀 I’m interested in Gamming, Designing & Web Development
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me on YouTuBE: https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw/videos 
-
+- 🌱 I’m currently learning Phyton
+- 📫 How to reach me on YouTuBE: shorturl.at/elGP1
 -( Email me : sohammaity239@gmail.com)
 
                     
