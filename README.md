@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SpreadSheets650
-- 👀 I’m interested in Gamming, Designing & Web Development
 - 🌱 I’m currently learning Phyton
 - 📫 Reach Me : sohammaity239@gmail.com
+- 👀 I’m interested in Gamming, Designing & Web Development
+
 
 
                     
