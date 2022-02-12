@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SpreadSheets650
 - 👀 I’m interested in Gamming, Designing & Web Development
 - 🌱 I’m currently learning Phyton
-- 📫 How to reach me on YouTuBE: shorturl.at/elGP1
--( Email me : sohammaity239@gmail.com)
+- 📫 Reach Me : sohammaity239@gmail.com
+
 
                     
 <!---
