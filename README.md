@@ -10,9 +10,7 @@
         Hello There
       <br>
         I'm Soham Maity, A Computer Science Student, I Like To Build BOTS And Code Websites.
-      </b>
-      
-      <b>
+      <br> 
         ~ SpreadSheets ~
       </b>
     </samp>
