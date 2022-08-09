@@ -1,24 +1,25 @@
 <!-- SpreasSheets650's  GitHub Profile -->
 <div align="justify">
   
+
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
-
+    <samp>
       <b>
         Hello There
       <br>
         I'm Soham Maity, A Computer Science Student, I Like To Build BOTS And Code Websites.
       </b>
-    
+      
       <b>
-        ~ SpreadSheets650 ~
+        ~ SpreadSheets ~
       </b>
-
+    </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-  <br>
+<br>
 
 <details>
 <summary><b>My Socials</b></summary>
