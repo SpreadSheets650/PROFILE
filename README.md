@@ -30,10 +30,10 @@
 [![My Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fspreadsheets650.tech)](https://spreadsheets650.tech/)
 
 </deails>
-<div>
+
   
 <br>
-
+  
 <details>
 <summary><b>GitHub Base Stats</b></summary>
 
@@ -51,22 +51,24 @@
 </div>
 
 </details>
-</div>
+
+  
+<br>
+
 
 <details>
 <summary><b>Language And Tools</b></summary>
 
 <h2></h2><br>
 
-[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
-[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
-[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
-<br />
-<br />
+[<img align="centre" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
+[<img align="centre" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
+[<img align="centre" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
+[<img align="centre" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
+[<img align="centre" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
+[<img align="centre" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
+[<img align="centre" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+
 
 </details>
 
