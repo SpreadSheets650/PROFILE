@@ -61,13 +61,11 @@
 
 <h2></h2><br>
 
-[<img align="centre" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
-[<img align="centre" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
-[<img align="centre" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
-[<img align="centre" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
-[<img align="centre" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
-[<img align="centre" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
-[<img align="centre" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,HTML5,CSS3,JavaScript,Node.Js,GitHub,Visual Studio Code" />
+  </a>
+</p>
 
 
 </details>
