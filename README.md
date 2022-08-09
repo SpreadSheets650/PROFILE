@@ -11,7 +11,7 @@
 <br>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><b>More Info</b></summary>
 
 <h2></h2><br>
 
