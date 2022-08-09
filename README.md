@@ -9,7 +9,6 @@
 [![My Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fspreadsheets650.tech)](https://spreadsheets650.tech/)
 
 <summary><samp><b>More Info</b></samp></summary>
------
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/727012870683885578)](https://discord.com/users/727012870683885578)
 
@@ -29,12 +28,9 @@
 ---
 ### :zap: GitHub Stats :
 
-</br>
-<a href="https://github.com/SpreadSheets650">
-<img align="center" alt="SOHAM's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SpreadSheets650&&show_icons=true&theme=tokyonight&layout=compact"/>
-</br>
-</br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SpreadSheets650&theme=nightowl&date_format=j%20M%5B%20Y%5D" alt="SpreadSheets650" />
-</a>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpreadSheets650&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpreadSheets650&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      
+
 
 
