@@ -15,10 +15,13 @@
 
 <h2></h2><br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/727012870683885578)](https://discord.com/users/727012870683885578)
 
-------
-### Languages and Tools : 
+<br>
+
+<details>
+<summary><b>Language And Tools</b></summary>
+
+<h2></h2><br>
 
 [<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
 [<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
@@ -30,8 +33,13 @@
 <br />
 <br />
 
----
-### :zap: GitHub Stats :
+
+<br>
+
+<details>
+<summary><b>GitHub Base Stats</b></summary>
+
+<h2></h2><br>
 
 <!-- Github Stats -->
 
