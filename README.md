@@ -10,7 +10,9 @@
         Hello There
       <br>
         I'm Soham Maity, A Computer Science Student, I Like To Build BOTS And Code Websites.
-      <br> 
+      <br>
+        I Try To Build Aesthetic Projects. I Always Stay Organised And Love To Use Discord.
+      <br>
         ~ SpreadSheets ~
       </b>
 </samp>
