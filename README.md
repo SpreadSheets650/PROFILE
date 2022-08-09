@@ -8,6 +8,8 @@
 [![Discord](https://img.shields.io/discord/951315595494826045?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/FJFfTkNdew)
 [![My Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fspreadsheets650.tech)](https://spreadsheets650.tech/)
 
+
+
 <summary><samp><b>More Info</b></samp></summary>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/727012870683885578)](https://discord.com/users/727012870683885578)
@@ -28,9 +30,16 @@
 ---
 ### :zap: GitHub Stats :
 
+<!-- Github Stats -->
+
+<div align="center">
+  <table>
+    <tr>
       <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SpreadSheets650&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
       <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpreadSheets650&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-      
+    </tr>
+  </table>
+</div>
 
-
-
+</details>
+</div>
