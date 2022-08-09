@@ -34,7 +34,7 @@
   
 <br>
   
-
+<details>
 <summary><b>GitHub Base Stats</b></summary>
 
 <h2></h2><br>
@@ -49,14 +49,14 @@
     </tr>
   </table>
 </div>
-
+  </details>
 
 
   
 <br>
 
 
-
+<details>
 <summary><b>Language And Tools</b></summary>
 
 <h2></h2><br>
@@ -66,7 +66,7 @@
     <img src="https://skillicons.dev/icons?i=git,python,html,css,js,nodejs,github,vscode,discord,au,pr,ps,stackoverflow,instagram" />
   </a>
 </p>
-
+  </details>
 
 
 
