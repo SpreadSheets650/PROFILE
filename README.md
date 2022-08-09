@@ -3,9 +3,9 @@
   
 
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong>「</strong></p>
   <p align="center">
-    <samp>
+
       <b>
         Hello There
       <br>
@@ -13,23 +13,27 @@
       <br> 
         ~ SpreadSheets ~
       </b>
-    </samp>
+
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="right"><strong>」</strong></p>
 
 <br>
 
-<details>
-<summary><b>More Info</b></summary>
+  <details>
+<summary><samp><b>More Info</b></samp></summary>
 
 <h2></h2><br>
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCWMSO5jUSWz9pWFdaLcqanw?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw/videos)
-[![YouTube](https://img.shields.io/youtube/channel/views/UCWMSO5jUSWz9pWFdaLcqanw?logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw/videos)
-[![Discord](https://img.shields.io/discord/951315595494826045?label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/FJFfTkNdew)
-[![My Website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fspreadsheets650.tech)](https://spreadsheets650.tech/)
+<!-- Contact Me -->
+<p align="center">
 
-</deails>
+    [<a href="https://spreadsheets650.tech/">Website</a>]
+    [<a href="https://www.instagram.com/_ig._.soham_/">Instagram</a>]
+    [<a href="https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw">YouTUbe</a>]
+    [<a href="mailto:admin@spreadsheets650.tech">E-Mail</a>]
+    [<a href="https://discord.gg/6SZBFCePtt">Dicord</a>]
+
+</p>
 
   
 <br>
