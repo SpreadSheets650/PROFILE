@@ -33,7 +33,7 @@
     [<a href="https://www.instagram.com/_ig._.soham_/">Instagram</a>]
     [<a href="https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw">YouTUbe</a>]
     [<a href="mailto:admin@spreadsheets650.tech">E-Mail</a>]
-    [<a href="https://discord.gg/6SZBFCePtt">Dicord</a>]
+    [<a href="https://discord.gg/kWpX23s38b">Dicord</a>]
   </samp>
 </p>
 
