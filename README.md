@@ -9,7 +9,7 @@
       <b>
         Hello There
       <br>
-        I'm Soham Maity, A Computer Science Student, I Like To Build BOTS And Code Websites.
+        I'm D3, A Computer Science Student, I Like To Build BOTS And Code Websites.
       <br>
         I Try To Build Aesthetic Projects. I Always Stay Organised And Love To Use Discord.
       <br>
@@ -29,11 +29,11 @@
 <!-- Contact Me -->
 <p align="center">
 <samp>
-    [<a href="https://spreadsheets650.tech/">Website</a>]
-    [<a href="https://www.instagram.com/_ig._.soham_/">Instagram</a>]
-    [<a href="https://www.youtube.com/channel/UCWMSO5jUSWz9pWFdaLcqanw">YouTUbe</a>]
-    [<a href="mailto:admin@spreadsheets650.tech">E-Mail</a>]
-    [<a href="https://discord.gg/kWpX23s38b">Dicord</a>]
+    [<a href="https://d3.org/">Website</a>]
+    [<a href="https://d3.org/">Instagram</a>]
+    [<a href="https://d3.org/">YouTUbe</a>]
+    [<a href="mailto:d3mon1337@proton.me">E-Mail</a>]
+    [<a href="https://d3.org/">Dicord</a>]
   </samp>
 </p>
 
